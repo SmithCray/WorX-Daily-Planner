@@ -1,5 +1,6 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  background-color: deepskyblue;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -11,6 +12,19 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+.fas {
+  color: blue;
+}
+
+.textbox {
+  color: black;
+  background-color: #ffffff;
+}
+
+.alert {
+  margin-bottom: 0;
 }
 
 .jumbotron {
